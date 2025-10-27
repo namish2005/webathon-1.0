@@ -58,7 +58,7 @@ python -m http.server 8000
 npm start
 ```
 
-Open http://localhost:8000 to view the site.
+Open (https://webathon-24-10.netlify.app/)
 
 ## File structure
 
