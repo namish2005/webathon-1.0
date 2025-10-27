@@ -1,0 +1,9 @@
+{
+  "name": "webathon-1.0",
+  "version": "1.0.0",
+  "description": "Static demo site for Webathon 1.0",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server -p 8000"
+  }
+}
