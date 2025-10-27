@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
-  <rect width="100%" height="100%" fill="#f3f4f6"/>
-  <g font-family="Segoe UI, Roboto, Arial, sans-serif" fill="#374151">
-    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="22">Screenshot placeholder</text>
-    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" font-size="14" fill="#6b7280">Replace with assets/screenshot.png for README preview</text>
-  </g>
-</svg>
